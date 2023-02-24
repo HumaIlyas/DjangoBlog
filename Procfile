@@ -1,0 +1,1 @@
+web: gunicorn ci-fsf-django-blog1.wsgi
